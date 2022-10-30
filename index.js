@@ -1,5 +1,5 @@
 function average(firstDay, secondDay, thirdDay) {
-	// write your code here
+	return (firstDay + secondDay + thirdDay) / 3;
 }
 
 module.exports = average;
